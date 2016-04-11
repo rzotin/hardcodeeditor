@@ -44,7 +44,7 @@
 </head>
 
 <body bgcolor="#E5E5E5">
-<h1>HardCodeEditor v1.2</h1>&copy 2006 by rusty <a href="http://www.zotin.com/hardcodeeditor" target="_blank">zotin</a>
+<h1>HardCodeEditor v1.2</h1>&copy 2006 by rusty <a href="http://zotin.com/blog/2006/05/21/hardcodeeditor/" target="_blank">zotin</a>
 <br />
 <?php
  // Authentifikation
